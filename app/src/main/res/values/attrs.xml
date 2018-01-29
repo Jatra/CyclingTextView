@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CyclingTextView">
+        <attr name="delay" format="reference|integer" />
+        <attr name="textSize" format="reference|dimension" />
+        <attr name="textColor" format="reference|color" />
+        <attr name="android:entries" />
+    </declare-styleable>
+</resources>
